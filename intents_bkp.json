@@ -1,0 +1,27 @@
+{"intents":[
+  { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem"],
+    "responses": ["Oi","Olá"]
+  },
+  { "tag": "despedida",
+    "patterns":["valeu","tchau","Obrigado","tks"],
+    "responses": ["Até breve","Falou"]
+  },
+  { "tag": "data_prova",
+    "patterns":["Quando sera a prova?","A prova será em que dia?"],
+    "responses": ["no dia 26"]
+  },
+  { "tag": "o_que_e_pipe",
+    "patterns":["O que é o programa PIPE?","O que é o PIPE?","O que o PIPE é?"],
+    "responses": ["O Programa Pesquisa Inovativa em Pequenas Empresas da FAPESP destina-se a apoiar a execução de pesquisa científica e tecnológica em pequenas empresas no Estado de São Paulo."]
+  },
+  { "tag": "serventia_pipe",
+    "patterns":["Pra que serve o programa PIPE?","Qual o objetivo do PIPE?"],
+    "responses": ["Seus objetivos são apoiar a pesquisa em ciência e tecnologia como instrumento para promover a inovação tecnológica e o desenvolvimento empresarial, aumentar a competitividade das pequenas empresas, possibilitar que as empresas se associem a pesquisadores do ambiente acadêmico em projetos de pesquisa visando à inovação tecnológica e contribuir para a formação e o desenvolvimento de núcleos de desenvolvimento tecnológico nas empresas e para o emprego de pesquisadores no mercado de trabalho empresarial criando uma cultura permanente de inovação."]
+  },
+  { "tag": "estapas_pipe",
+    "patterns":["O que é o programa PIPE?","O que é o PIPE?","O que o PIPE é?"],
+    "responses": ["O Programa Pesquisa Inovativa em Pequenas Empresas da FAPESP destina-se a apoiar a execução de pesquisa científica e tecnológica em pequenas empresas no Estado de São Paulo."]
+  }
+]
+}
