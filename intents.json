@@ -9,8 +9,8 @@
         "tudo bem"
       ],
       "responses": [
-        "Oi",
-        "Olá"
+        "Oi, eu sou o ChatBot. O que eu posso fazer por voce hoje?",
+        "Ola, sou o ChatBot que ira te ajudar com assuntos referentes ao PIPE."
       ]
     },
     {
@@ -22,71 +22,85 @@
         "tks"
       ],
       "responses": [
-        "Até breve",
-        "Falou"
+        "Ate breve, estarei feliz em te ajudar novamente.",
+        "Tchau, espero ter ajudado.",
+        "Ate mais, foi um prazer te ajudar."
       ]
     },
     {
       "tag": "o_que_e_pipe",
       "patterns": [
-        "O que é o programa PIPE?",
-        "O que é o PIPE?",
-        "O que o PIPE é?"
+        "O que seria o PIPE?",
+        "O programa PIPE e o que?",
+        "PIPE?",
+        "PIPE e?"
       ],
       "responses": [
-        "O Programa Pesquisa Inovativa em Pequenas Empresas da FAPESP destina-se a apoiar a execução de pesquisa científica e tecnológica em pequenas empresas no Estado de São Paulo."
+        "O Programa Pesquisa Inovativa em Pequenas Empresas da FAPESP destina-se a apoiar a execucao de pesquisa cientifica e tecnologica em pequenas empresas no Estado de Sao Paulo."
       ]
     },
     {
       "tag": "objetivo_PIPE",
       "patterns": [
-        "Qual é o objetivo do PIPE?",
-        "Para que serve o PIPE?",
-        "Qual o propósito do PIPE?"
+        "Qual o objetivo do PIPE?",
+        "Pra que serve o PIPE?",
+        "Qual o proposito do PIPE?"
       ],
       "responses": [
-        "O objetivo do PIPE é apoiar a execução de pesquisa científica e tecnológica em pequenas empresas no Estado de São Paulo, promovendo a inovação tecnológica e o desenvolvimento empresarial."
+        "O objetivo do PIPE e apoiar a execucao de pesquisa cientifica e tecnologica em pequenas empresas no Estado de Sao Paulo, promovendo a inovacao tecnologica e o desenvolvimento empresarial."
       ]
     },
     {
       "tag": "competitividade_empresas",
       "patterns": [
-        "Como o PIPE contribui para aumentar a competitividade das pequenas empresas?",
-        "De que forma o PIPE ajuda as pequenas empresas a serem mais competitivas?"
+        "Para que o PIPE contribui?",
+        "Para que o PIPE contribui nas empresas?",
+        "Quem o PIPE ajuda?"
       ],
       "responses": [
-        "O PIPE contribui para aumentar a competitividade das pequenas empresas ao possibilitar que elas se associem a pesquisadores do ambiente acadêmico em projetos de pesquisa visando à inovação tecnológica."
+        "O PIPE contribui para aumentar a competitividade das pequenas empresas ao possibilitar que elas se associem a pesquisadores do ambiente academico em projetos de pesquisa visando a inovacao tecnologica."
       ]
     },
     {
       "tag": "fases_PIPE",
       "patterns": [
-        "Quais são as fases do PIPE?",
-        "Pode falar mais sobre as fases do PIPE?"
+        "Quais sao as fases do PIPE?",
+        "Qual a fase do PIPE?",
+        "Quais as etapas do PIPE?",
+        "Qual a etapa do PIPE?"
       ],
       "responses": [
-        "O PIPE possui quatro fases: Fase 1, destinada à verificação da viabilidade técnico-científica da proposta, com duração de até 9 meses e orçamento de até R$ 300.000, mais Reserva Técnica e Benefícios Complementares; Fase 2, destinada à execução da pesquisa propriamente dita, com duração de até 24 meses e orçamento de até R$ 1.500.000, mais Reserva Técnica e Benefícios Complementares; PIPE Invest, que é a aceleração da chegada ao mercado de Projetos da Fase 2, quando houver terceira parte interessada, com duração de até 24 meses e orçamento de até R$ 1.500.000; e Fase 3, destinada ao desenvolvimento comercial e industrial dos produtos, processos, sistemas e/ou serviços inovadores obtidos a partir de pesquisas anteriores realizadas pela pequena empresa sem o apoio da FAPESP ou a partir de pesquisa apoiada no âmbito do PIPE."
+        "O PIPE possui tres fases: Fase 1, destinada a verificacao da viabilidade tecnico-cientifica da proposta, com duracao de ate 9 meses e orcamento de ate R$ 300.000, mais Reserva Tecnica e Beneficios Complementares; Fase 2, destinada a execucao da pesquisa propriamente dita, com duracao de ate 24 meses e orcamento de ate R$ 1.500.000, mais Reserva Tecnica e Beneficios Complementares; PIPE Invest, que e a aceleracao da chegada ao mercado de Projetos da Fase 2, quando houver terceira parte interessada, com duracao de ate 24 meses e orcamento de ate R$ 1.500.000; e Fase 3, destinada ao desenvolvimento comercial e industrial dos produtos, processos, sistemas e/ou servicos inovadores obtidos a partir de pesquisas anteriores realizadas pela pequena empresa sem o apoio da FAPESP ou a partir de pesquisa apoiada no ambito do PIPE."
       ]
     },
     {
       "tag": "beneficios_PIPE",
       "patterns": [
-        "Como as pequenas empresas podem se beneficiar do PIPE?",
-        "Quais os benefícios que o PIPE oferece para as empresas?"
+        "Quais sao os beneficios do PIPE?",
+        "O que o pipe pode beneficiar?",
+        "Como as empresas se beneficiam do PIPE?"
       ],
       "responses": [
-        "As pequenas empresas podem se beneficiar do PIPE ao terem acesso ao financiamento para realizar pesquisa científica e tecnológica, aumentando sua capacidade de inovação e competitividade no mercado."
+        "As pequenas empresas podem se beneficiar do PIPE ao terem acesso ao financiamento para realizar pesquisa cientifica e tecnologica, aumentando sua capacidade de inovacao e competitividade no mercado."
       ]
     },
     {
       "tag": "papel_PIPE_Invest",
       "patterns": [
-        "Qual é o papel do PIPE Invest no programa?",
+        "Qual o papel do PIPE Invest?",
+        "O que e o PIPE Invest?",
         "O que faz o PIPE Invest?"
       ],
       "responses": [
-        "O PIPE Invest tem o papel de acelerar a chegada ao mercado de projetos da Fase 2 do programa, especialmente quando há interesse de terceiras partes, contribuindo para a comercialização e aplicação prática dos resultados de pesquisa desenvolvidos pelas pequenas empresas."
+        "O PIPE Invest tem o papel de acelerar a chegada ao mercado de projetos da Fase 2 do programa, especialmente quando ha interesse de terceiras partes, contribuindo para a comercializacao e aplicacao pratica dos resultados de pesquisa desenvolvidos pelas pequenas empresas."
       ]
+    },
+    {
+      "tag": "nao_tenho_conhecimento",
+      "patterns": [""],
+      "responses": ["Desculpe, nao consegui entender.",
+      "Me perdoe, eu fui treinado para responder apenas algumas perguntas basicas sobre o PIPE.",
+      "Nao consegui entender, mas se tiver qualquer duvida sobre o PIPE, e so perguntar."]
     }
   ]
 }
