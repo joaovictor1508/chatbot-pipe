@@ -5,4 +5,5 @@ CC7711 - IA E ROBÓTICA
 
 O repositório em questão apresenta um pequeno código de um chatbot exclusivo para responder dúvidas referentes ao PIPE, com uma pequena interface utilizando a lib tkinter do python.
 
-![chattpg](https://github.com/joaovictor1508/chatbot-pipe/assets/127452811/fa3a9c6a-318c-42fd-bbec-1d40d18c1f0d)
+![image](https://github.com/joaovictor1508/chatbot-pipe/assets/127452811/8e49aecb-a856-4dee-988d-f3abc381647e)
+
